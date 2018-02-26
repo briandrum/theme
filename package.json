@@ -27,9 +27,9 @@
     "setup": "npm install"
   },
   "dependencies": {
-    "suitcss": "^2.0.0"
+    "suitcss": "^3.0.0"
   },
   "devDependencies": {
-    "suitcss-preprocessor": "^2.0.0"
+    "suitcss-preprocessor": "^4.0.0"
   }
 }
